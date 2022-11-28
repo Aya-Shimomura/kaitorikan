@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="../lib/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../lib/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="../lib/java1.js"></script>
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>ニコニコモータース</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="page_id" type="text" value="page_main" -->
+</head>
+<body onload="MM_preloadImages('../images/common/btn_footer_totop_on.jpg')" id="@@(page_id)@@">
+<div id="header_wrapper">
+	<div id="header">
+		<h1>横浜市都筑区｢仲町台｣駅から徒歩3分！ニコニコモータースは車の買取・販売・整備・板金修理など、あなたのカーライフをトータルサポート致します。お気軽にご連絡ください。</h1>
+		<div id="logomark"><a href="../index.html"><img src="../images/common/header_img_logo.jpg" width="180" height="72" alt="ニコニコモータース" /></a></div>
+		<div id="cont_right">
+			<div id="tel"></div>
+			<div class="t_right"><a href="../inquiry.html"><img src="../images/common/header_btn_inquiry.jpg" width="125" height="30" alt="お問い合わせ" class="mr_5" /></a><a href="../access.html"><img src="../images/common/header_btn_access.jpg" width="92" height="30" alt="アクセス" /></a></div>
+		</div>
+		<div id="designation">指定整備工場</div>
+	</div>
+</div>
+<div id="contents">
+	<div id="cont_right">
+		<ul id="mainmenu">
+			<li id="sell"><a href="../sell.html">車の買取</a></li>
+			<li id="buy"><a href="../buy.html">車の販売</a></li>
+			<li id="inspect"><a href="../inspect.html">整備・メンテナンス</a></li>
+			<li id="repair"><a href="../repair.html">板金・塗装</a></li>
+			<li id="access"><a href="../access.html">アクセス</a></li>
+		</ul>
+		<div class="ml_10 mt_10"><a href="http://niconicomotors.blog.fc2.com/" target="_blank"><img src="../images/common/img_bana_blog.jpg" width="180" height="70" alt="店長のブログ" /></a></div>
+		<div id="sell"><img src="../images/common/img_rightside_sell.jpg" width="184" height="357" alt="クルマを売りたい" /></div>
+		<div id="buy"> <a href="../buy.html"><img src="../images/common/btn_carsearch.jpg" width="164" height="42" alt="車を探す" /></a>
+		</div>
+		<div id="buy_step">
+		</div>
+	</div><!-- #cont_rightここまで -->
+	<!-- TemplateBeginEditable name="EditRegion1" -->
+	<div id="pankuzu">
+		<a href="index.html">トップページ</a>&nbsp;&gt;&nbsp;車の買取
+	</div>
+	<div id="maincaption">
+		<img src="../images/sell/h1_sell.jpg" width="750" height="130" alt="" />
+	</div>
+	<div id="cont_left">
+		<p><a href="#estimate"><img src="../images/common/btn_estimate.jpg" width="245" height="143" alt="無料お見積もりはこちら" class="right ml_10" id="btn_estimate" /></a>ニコニコモータースの高値買取価格の秘密は、圧倒的なスピード感にあります。
+名義変更に必要な日数は、業界最速の4 日間に短縮。独自の流通網により買取した車両を素早く商品化することによって、在庫管理コストを極限まで抑えています。
+		</p>
+		<h2><img src="../images/sell/h2_sell_01.jpg" alt="名義変更4日間！トラブルの心配はありません。" width="724" height="55" /></h2>
+		<div>
+			<img src="../images/sell/img_sell_01.jpg" width="141" height="143" alt="業界最速" class="right ml_10" />
+			<h3 class="mt_5"><img src="../images/sell/h3_sell_01.jpg" alt="名義変更終了のご案内を送付させていただいております" width="540" height="55" /></h3>
+			<p class="mt_10">ニコニコモータースでは、お車をお売りいただいてから4 日間でお客様のお車の名義から当社の名義に変更します。
+名義変更終了のご案内をお送りいたしますので、<em>ご売却後のトラブルのご心配は一切ありません。</em>もちろん、買取代金のお支払いも迅速に行います。</p>
+			<hr />
+		</div>
+		<div class="caution" id="case01">
+		買取後にお客様のお車の名義のままオークションやブローカーで取引してしまうような業者にお車を任せてしまった場合では、お車の名義がそのままですので、所有者責任が残ってしまう為にまだ安心できません。
+		</div>
+		<h2><img src="../images/sell/h2_sell_02.jpg" alt="お見積もりにはきっちりお応えします。二十査定はいたしません" width="724" height="55" /></h2>
+		<div class="mt_10">
+			<img src="../images/sell/img_sell_02.jpg" width="113" height="150" alt="お見積もりイメージ" class="left mr_20
+			" />
+			<h3><img src="../images/sell/h3_sell_02.jpg" alt="ご契約時時に行う査定とお見積もり金額から減額することはありません" width="445" height="57" /></h3>
+			<p>ニコニコモータースは、頂いたお見積もり依頼には真摯に対応し、<em>二重査定は行いません。</em>
+ご契約時の査定・お見積もりの内容を厳守しておりますのでご安心下さい。
+※水没など天災被害車・メーター改ざんなどを認知している場合は必ずご申告ください。</p>
+			<hr />
+		</div>
+		<div class="caution" id="case02">
+		契約時の査定内容で契約したにもかかわらず、査定士が査定の見落としをしたために後から減額交渉されてしまうという、いわゆる「二重査定」によるトラブルも、この業界ではよく耳にします。</div>
+		<a name="estimate"></a>
+		<div id="cont_inquiry">
+			<h2><img src="../images/common/caption_inspect_estimate.jpg" width="724" height="72" alt="お問い合わせはこちら" /></h2>
+			<table width="100%">
+				<tr>
+					<td><img src="../images/common/img_inquiry_no1.jpg" width="54" height="69" /></td>
+					<td>
+						<img src="../images/common/img_inquiry_tel.jpg" width="190" height="110" alt="お電話でのお問い合わせ" class="left mr_10" />
+<h3><img src="../images/common/caption_inquiry_tell.jpg" width="269" height="28" alt="お電話でのお問い合わせ" /></h3>
+						<p>お電話で直接ご相談されたい方は、、下記フリーダイヤルへ
+お電話下さい！どんな車が自分に合っているのかわからない…という
+方も大歓迎。お客様が自分にピッタリのお車をお選びできるよう、
+親身になってアドバイスさせて頂きます。</p>
+						<hr />
+					<img src="../images/common/img_inquiry_telnumber.jpg" alt="0120-83-1371" width="615" height="55" class="mt_5" />
+						</td>
+				</tr>
+				<tr>
+					<td><img src="../images/common/img_inquiry_no2.jpg" alt="" width="53" height="70" /></td>
+					<td>
+						<img src="../images/common/img_inquiry_web.jpg" width="190" height="110" class="left mr_20" />
+<h3><img src="../images/common/caption_inquiry_web.jpg" width="364" height="28" alt="インターネットでのお問い合わせ" /></h3>
+						<p>車を買う相談をしたいけれども、夜しか時間が取れない…そんな
+方は、インターネットを通してお問い合わせください！
+お問い合わせフォームより、お客様のご希望条件などをお知らせ
+いただければ、担当者より返信させていただきます。</p>
+						<hr />
+					<a href="inquiry.html"><img src="../images/common/btn_estimate_form.jpg" width="615" height="86" alt="お問い合わせフォーム" /></a></td>
+				</tr>
+				<tr>
+					<td><img src="../images/common/img_inquiry_no3.jpg" alt="" width="54" height="70" /></td>
+					<td>
+						<div id="inquiry_access">
+							<div><img src="../images/common/img_inquiry_delivery.jpg" alt="店舗写真" width="190" height="95" /></div>
+							<div class="mt_10"><a href="access.html"><img src="../images/common/btn_accessmap.jpg" width="191" height="49" alt="アクセスマップ" /></a></div>
+						</div>
+						<h3><img src="../images/common/caption_inquiry_delivery.jpg" width="220" height="29" alt="出張査定・店頭査定" /></h3>
+						<p><em>査定は迅速5 分（※）でOK ！</em><br />
+ニコニコモータース専属の検査員がしっかり査定させていただいて
+おります。お客様のご要望にはできるかぎりお応えしますので、まずは、お気軽に店舗までお問い合わせください。</p>
+						<p class="font_90" id="indent">※ 修復歴または機関に不具合が発見された場合、査定時間がかか る場合があります。尚、価格ご提示までにかかるデータ解析時間は含みません。</p>
+						<hr />
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div><!-- #cont_leftここまで -->
+	<!-- TemplateEndEditable -->
+	<div id="footer">
+		<div class="t_right"><a href="#"><img src="../images/common/btn_footer_totop_off.jpg" alt="#" width="159" height="26" id="Image1" onmouseover="MM_swapImage('Image1','','../images/common/btn_footer_totop_on.jpg',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+		<ul id="footer_navi">
+			<li><a href="../aboutus.html">会社概要</a></li>
+			<li><a href="../privacy.html">個人情報保護方針</a></li>
+			<li><a href="../law.html">特定商取引法に基づく表示</a></li>
+		</ul>
+	</div><!-- #footerここまで -->
+</div><!-- #contentsここまで -->
+</body>
+</html>
