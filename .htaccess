@@ -3,3 +3,6 @@ RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://kaitorikan.jp/$1 [R=301,L]
 RewriteCond %{HTTP_HOST} ^(www\.exapmle\.com)(:80)?
 RewriteRule ^(.*) https://kaitorikan.jp/$1 [R=301,L]
+
+RewriteRule ^repair.html$ https://www.2525repair.com/ [R=301,L]
+RewriteRule ^sp/sp_repair.html$ https://www.2525repair.com/ [R=301,L]
